@@ -8,7 +8,7 @@ Sou estudante de **Engenharia da Computação** pela Universidade Federal do Val
 
 ### 🚀 Minhas principais ferramentas e tecnologias:
 
-| Categoria | Tecnologias | Badges (Opcional) |
+| Categoria | Tecnologias | Badges |
 | :--- | :--- | :--- |
 | **Linguagens** | Python, Java, Verilog, C, VHDL | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java Badge"> |
 | **Hardware** | Verilog, VHDL, SystemVerilog, FPGA, Vivado | <img src="https://img.shields.io/badge/FPGA-000000?style=flat-square" alt="FPGA Badge"> |
