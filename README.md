@@ -1,5 +1,9 @@
 # Olá! Me chamo Theógenes Gabriel 👋
+### Entre em Contato
 
+* **LinkedIn:** [Meu Perfil no LinkedIn]([www.linkedin.com/in/theógenes-andrade-7728681b9])
+* **E-mail:** theogenesandrade276@gmail.com
+  
 ### Desenvolvedor | Estudante de Engenharia da Computação
 
 Sou estudante de **Engenharia da Computação** pela Universidade Federal do Vale do São Francisco (**UNIVASF**). Minha paixão me leva do universo da **Ciência de Dados** e **Machine Learning** até o desenvolvimento de baixo nível, como aplicações em **Sistemas Embarcados** e **Sistemas Digitais (FPGA)**.
