@@ -1,4 +1,4 @@
-# Olá! Eu sou o Theógenes Gabriel 👋
+# Olá! Me chamo Theógenes Gabriel 👋
 
 ### Desenvolvedor | Estudante de Engenharia da Computação
 
