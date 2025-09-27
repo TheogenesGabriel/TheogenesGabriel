@@ -1,7 +1,7 @@
 # Olá! Me chamo Theógenes Gabriel 👋
 ### Entre em Contato
 
-[<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/the%C3%B3genes-andrade-7728681b9/]) 
+[<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/the%C3%B3genes-andrade-7728681b9/)
 [<img src="https://img.shields.io/badge/E--MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:theogenesandrade276@gmail.com)
   
 ### Desenvolvedor | Estudante de Engenharia da Computação
