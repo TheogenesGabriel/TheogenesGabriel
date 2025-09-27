@@ -25,8 +25,8 @@ Sou estudante de **Engenharia da Computação** pela Universidade Federal do Val
 ---
 ### 📊 Minhas Estatísticas no GitHub
 
-[![Theogenes Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheogenesGabriel&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Theogenes Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheogenesGabriel&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 Linguagens Mais Usadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheogenesGabriel&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheogenesGabriel&theme=dracula&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
