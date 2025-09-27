@@ -23,3 +23,10 @@ Sou estudante de **Engenharia da Computação** pela Universidade Federal do Val
 * **Sistemas Digitais em Tempo Real:** Desenvolvimento e otimização de hardware usando FPGAs (Verilog/VHDL).
 
 ---
+### 📊 Minhas Estatísticas no GitHub
+
+[![Theogenes Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheogenesGabriel&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### 💻 Linguagens Mais Usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheogenesGabriel&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
