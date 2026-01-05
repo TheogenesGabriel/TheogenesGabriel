@@ -26,11 +26,4 @@ Sou estudante de **Engenharia da Computação** pela Universidade Federal do Val
 * **Machine Learning:** Construindo e aplicando modelos preditivos.
 * **Sistemas Digitais em Tempo Real:** Desenvolvimento e otimização de hardware usando FPGAs (Verilog/VHDL).
 
----
-### 📊 Minhas Estatísticas no GitHub
 
-[![Theogenes Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheogenesGabriel&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### 💻 Linguagens Mais Usadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheogenesGabriel&theme=dracula&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
