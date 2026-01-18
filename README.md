@@ -14,9 +14,9 @@ Sou estudante de **Engenharia da Computação** pela Universidade Federal do Val
 
 | Categoria | Tecnologias | Badges |
 | :--- | :--- | :--- |
-| **Linguagens** | Python, Java, Verilog, C, VHDL, R | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java Badge"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">|
-| **Hardware** | Verilog, VHDL, SystemVerilog, FPGA, Vivado | <img src="https://img.shields.io/badge/FPGA-000000?style=flat-square" alt="FPGA Badge"> |
-| **Ciência de Dados** | NumPy, Matplotlib| <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="Numpy Badge"> |
+| **Linguagens** | Python, Java, C, R | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java Badge"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">|
+| **Hardware** | Verilog, VHDL, FPGA, Vivado | <img src="https://img.shields.io/badge/FPGA-000000?style=flat-square" alt="FPGA Badge"> <img src="https://img.shields.io/badge/VHDL-5C2D91?style=flat-square">|
+| **Ciência de Dados** | NumPy, Matplotlib, Seaborn| <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="Numpy Badge"> |
 | **Outras** | UML, Git, GitHub | <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white" alt="Git Badge"> |
 
 ---
